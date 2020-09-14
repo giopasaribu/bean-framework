@@ -10,7 +10,7 @@ bean in context then `BeanCreationException` is thrown.
 
 # Limitations
 1) Current implementation support only classes with default constructor
-2) Circle dependencies not handled
+2) Circular dependencies not handled
 
 # Getting started
 Follow these steps to start using Bean Framework
